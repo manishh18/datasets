@@ -1,0 +1,1000 @@
+﻿SID,COURSE,NAME,Age,Sex,State,Father's Business,Mother's Business,Number of brothers,Numebr of sisters,Joint Family?,Family Size,Family Income,Rank JEE,Latest CGPA,12th grades,Higher study?,Dropped?,TEACHING,INFRA,SPORTS,HOSTEL,How know?,CELL PHONE,STUDY,EXTRA,CO,CHATTING,SLEEPING
+0,ICT(CS),Solanki Vismay,18,M,GUJ,Business,Home maker,1,0,Nuclear,4,0,Not Given,0,99.31%,No,No,2,2,2,3,friends,2,5,,0,1,8
+202301025,ICT,Trith Boghani,19,M,GUJ,Job,Home maker,0,0,Nuclear,3,0,11000,7.5,92,No,No,2,2,2,2,Social Media,4,3,,2,0.5,7
+202201506,ICT(CS),Mihirkumar,19,M,GUJ,Principal,Home maker,0,0,Nuclear,3,8,3362,8.86,92%,No,No,1,1,1,2,Social Media,6,6,,1,1,8
+202101146,ICT,Ruturajsinh Chauhan,21,M,GUJ,farmer,Home maker,1,0,Joint,8,0,100034,7.22,90.92%,No,no,2,2,3,1,Teacher,3,5,,0,0.5,6
+202401139,,,17,Female,Gujarat ,Govt Service ,Housewife ,1,2,Joint,6,400000,157743,,74,No,No,2,2,2,2,Teacher,5,7,,2,1,6
+202301123,,,20,Male,Gujarat,former urc co ordinator at rajkot municipal corporation school board ,government officer,0,1,Nuclear,4,2000000,4754,7,80,No,No,3,4,3,3,Friends,4,2,,1,1,12
+202201270,,,19,Male,Gujarat,Service,Homemaker,0,0,Joint,7,1000000,9484,5.86,82,No,No,2,1,3,4,Family,4,4,,2,2,7
+202101462,,,20,Male,Gujarat ,Farmer,Homemaker,0,1,Joint,6,600000,8000,9,95,No,No,1,1,,1,Social meadia,4,2,,1,1,8
+2.4119E+11,,Shilojha Om,17,M,GUJ,Farmer,Home maker,0,1,Nuclear,5,0.95,181092,0,91.00%,No,No,1,1,1,1,friends,4,6,,2,0.5,7
+202301073,,Meet Jain,18,M,GUJ,0,0,2,0,Nuclear,4,0,7394,0,97.00%,No,No,3,2,3,3,Social Media,5,3,,2,4,7
+202201264,,Alpesh,19,M,GUJ,0,0,0,1,Joint,16,0,0,0,85.00%,No,No,3,2,2,2,Teacher,3,3,,1,0,8
+202101212,,Naitik Ravat,20,M,GUJ,Professor,Home maker,1,0,Nuclear,4,0,0,7.34,92.00%,No,No,3,3,3,2,friends,6,8,,0,1,6
+202101449,,,21,Male,Gujarat,Engineer,Teacher,0,0,Nuclear Family,3,,81430,7.29,86.80%,No,No,3 : Satisfactory,4 : Poor,4 : Poor,2 : Very Good,Friends,5,2,5,3,2,6
+202201402,,,19,Male,Gujarat,Doctor,Doctor,1,0,Nuclear Family,4,,5398,6.38,76.92%,Yes,No,3 : Satisfactory,3 : Satisfactory,3 : Satisfactory,2 : Very Good,"Yes, I am perusing my Btech degree there",5,3,2,0.45,2.5,7
+202301153,,,18,Male,Gujarat,Businessman,Housewife,0,1,Nuclear Family,4,,14000,7.7,93.00%,Yes,No,2 : Very Good,3 : Satisfactory,3 : Satisfactory,3 : Satisfactory,Coaching,1.5,3.5,1.5,2,1,8
+2420010126,,,18,Male,Gujarat,Business,Housewife,0,0,Joint Family,3,,73523,,93.60%,Yes,No,2 : Very Good,2 : Very Good,3 : Satisfactory,3 : Satisfactory,Friends and family,3,8,2,2.5,0.5,8
+202301253,,,19,Male,Gujarat,Police Inspector,House wife,1,0,Nuclear family,4,10,16408,7.62,69.8,Yes,Yes,3,3,3,3,School faculties,4,5,3,2,1,6
+202401184,,,17,Male,Gujarat,Businessman,Housewife,0,0,Nuclear family,3,5,150000,,93,No,No,4,4,4,2,SOCIAL MEDIA,5,2,1,1,2,7
+202201060,,,20,Male,Gujarat,Government services,Housewife,0,2,Joint family,4,6,71000,6.9,79,No,No,1,2,2,2,Teacher,5,3,2,1,1,7
+202101240,,,21,Male,Gujarat,Businessman,Housewife,1,0,Nuclear family,4,2.1,50000,7,90,No,No,2,2,3,2,Friends,7,4,0,0,1,7
+202301211,,,18,Female,Gujarat,Investment Advisor,Teacher,0,1,Nuclear,4,200000,226000,7.81,89,No,No,Fair,Poor,Fair,Fair,"My sister passed out from this institute, we heard about it from her school.",3,2,1,1,1.5,7
+202401168,,,18,Male,Gujarat ,Job as manager in software validation ,Housewife,1,0,Nuclear,4,12,11803,,90.3,No,No,Excellent,Fair,Fair,Excellent,Parents,4,2,4,2,2,8
+202101411,,,20,Male,Gujarat,Civil Engineer,Homemaker,0,1,Nuclear,5,1,7393,8.44,85.07,No,No,Very good,Fair,Fair,Very good,Social media,3,4,1,1,2,8
+202201106,,,19,Male,Gujarat ,Diamond Broker,House wife ,0,0,Nuclear,3,250000,5917,8.24,86.61,No,No,Fair,Very good,Very good,Excellent,From friends,5,3,2,2,2,6
+202403035,,,18,Female,Gujrat,Engineer,Homemaker,0,1,Nuclear,4,1800000,10203,,89%,Yes,No,Good,Satisfactory,Good,Satisfactory,Internet,3,4,2,1,1,6
+202301182,,,19,Female,Maharashtra,Engineer,Govt official,2,0,Nuclear,5,2000000,12938,8.1,93.40%,Yes,No,Good,Satisfactory,Good,Satisfactory,Internet,3,3,1,1,1,7
+202203025,,,20,Female,Delhi,Doctor,Homemaker,1,0,Nuclear,4,1600000,11922,8,92%,No,No,Satisfactory,Satisfactory,Good,Satisfactory,Family,4,4,2,2,2,6
+202103037,,,21,Female,Delhi,Lawyer,Lawyer,1,0,Nuclear,4,2100000,9304,8.2,90%,No,No,Satisfactory,Satisfactory,Good,Satisfactory,Internet,2,5,1,1,1,5
+202301239,,,18,Male,Gujarat ,Farmer,House wife ,1,0,Nuclear,4,5,3651,8.32,84,No,No,2,3,3,1,Social Media,2,3,3,3,1,7
+202103022,,,21,Male,Gujarat,Business,Housewife,0,1,Nuclear,4,8,8694,8.43,89,No,No,2,4,4,2,Friends & Families,3,3,2,1,2,8
+202401195,,,18,Male,Gujarat,Chemical Engineer,Advocate,0,1,Nuclear,4,10,11145,0,88,Yes,No,1,1,1,1,Google,5,10,2,1,1,7
+202201232,,,20,Male,Gujarat,Service,Housewife,0,1,Nuclear,4,11,37000,5.5,71,No,No,2,2,2,2,Friends & Families,7,2,2,0,1,7
+202401462,,Rohan Bhai,18,Male,Gujarat ,Manager,Doctor ,0,1,Nuclear,4,00,,,95,No,No,2,2,2,,Friends or Family,3-4 hours,2-3 hours,3-4 hours,3-4 hours,2-3 hours,7-8 hours
+202301226,,Priyanshi Gothi,18,Female,Gujarat ,,,1,,Joint,7,,,8.55,99.92,No,No,1,2,1,,School's sir,Less than 1 hour,2-3 hours,1-2 hours,Less than 1 hour,1-2 hours,6-7 hours
+202201477,,Hardi naik,19,Female,Gujarat ,B.sc,B.com,0,0,Joint,5,"4,50,000",3026,7.2,95.84%,No,No,1,2,2,,Online research or website,2-3 hours,Less than 1 hour,Less than 1 hour,Less than 1 hour,1-2 hours,7-8 hours
+202101515,,Kirtika Basant,20,Female,Gujarat ,,,1,0,Nuclear,4,>10,,,97.4,Yes,No,2,2,3,,Online research or website,3-4 hours,3-4 hours,1-2 hours,1-2 hours,Less than 1 hour,5-6 hours
+202201150,,,19,Male,Gujarat,Service,Housewife,0,1,Nuclear,4,,90000+,7.4,92%(PCM),No,No,3,2,2,2,,3,1.5,1,2-3,3-4,5-6
+202303023,,,19,Male,Gujarat,Service,House wife,0,2,Nuclear,5,8 lacs,8954,9.29,93.4,No,No,1,1,1,2,,2,1,3,1,2,7
+202401438,,,18,Male,Gujrat ,Job,Housewife ,0,2,Nuclear,5,650000,11790,,93,Yes,No,2,2,2,3,,8,3,2,1,1,8 hours
+202101131,,,21,Male,Rajasthan,Job,Service,0,1,Nuclear,4,920000,17300,8,91,Yes,Yes,2,3,2,3,,2,2,2,1,2,8
+202403010,,,18,MALE,Gujarat,Job,Housewife,0,0,nuclear,4,6 LPA,11001,0,91,No,No,1,1,1,3,Social Media,3,8,3,1,2,7
+202301138,,,18,MALE,Telangana,Research Analyst,House Wife,1,0,nuclear,4,60 LPA,11322,8.44,93,No,No,3,4,4,2,Cousin,5,6,2,1,3,7
+202201297,,,20,MALE,Gujarat,Business,Lab Technician,0,0,nuclear,4,11 LPA,11526,7.79,86,No,No,3,2,2,4,ACPC,10,2,3,1,3,5
+202101409,,,20,MALE,Gujarat,Teacher,Teacher,0,0,nuclear,3,10 LPA,8023,5,90,No,No,4,1,1,3,Family,12,1,2,0,1,8
+202401189,,,18,Male,Madhya Pradesh ,Govt. Teacher,House wife,0,0,Nuclear,3,700000,56000,,80,No,Yes,1,2,2,2,2,2,2,1,1,2,7
+202301112,,,20,Male,Gujarat,Bussiness,House wife,1,1,Nuclear,5,950000,16056,8.3,91,yes,No,2,3,2,3,2,3,3,3,2,2,8
+202201420,,,19,Male,Gujarat,job,House wife,0,1,Nuclear,4,750000,27500,,89,No,No,3,3,2,2,3,2,3,1,1,2,7
+202101116,,,20,Male,Maharashtra,Service,Teacher,1,,Nuclear,4,1100000,15480,7.8,92,Yes,No,3,2,3,2,3,3,3,1,2,1,7
+202101165,,,21,Male,Gujarat,Business,Housewife,1,0,Nuclear Family,4,,1700,,Don't remember percentage was 94.7,No,No,1 : Excellent,2 : Very Good,3 : Satisfactory,2 : Very Good,Teachers,10,0,2,1,4,8
+202201303,,,19,Male,Gujarat,Business,Business,0,1,Joint Family,4,,9864,,74.33,Have not thought about it!,No,3 : Satisfactory,3 : Satisfactory,3 : Satisfactory,3 : Satisfactory,Through many senior passouts from this college and also from our teachers at school,6,1-1.5,1-1.5,1,2,08-Sep
+202301113,,,18,Male,Gujarat,Contractor,House wife,0,2,Joint Family,7,,17k,8.11,590,No,No,3 : Satisfactory,3 : Satisfactory,3 : Satisfactory,1 : Excellent,Friends,5,2,2,1,1,8
+2401004404,,,17,Male,Utter pradesh,Army,Housewife,0,0,Nuclear Family,3,,14.1k,,74,No,No,1 : Excellent,1 : Excellent,1 : Excellent,1 : Excellent,Social media,Codm,6,2,1,1,7
+202101079,,,21,Male,Gujarat,Business,Home maker,1,0,Nuclear Family,4,,12000,6.74,96.33%,Yes,No,3 : Satisfactory,4 : Poor,3 : Satisfactory,3 : Satisfactory,Alumni,2,4,2,0,3,8
+202201220,,,19,Male,Gujarat,10th pass,12th pass,1,0,Nuclear Family,4,,126754,,81.5,No,No,4 : Poor,4 : Poor,3 : Satisfactory,3 : Satisfactory,Visit their official website,1,3,1,0,1,7
+202301101,,,19,Male,Gujarat,Businessman,"Yoga instructor, dietitian, Naturopathic Doctor",1,0,Nuclear Family,6,,7740,,93.4℅,Have not thought about it!,No,4 : Poor,3 : Satisfactory,3 : Satisfactory,2 : Very Good,"Idk, it just came up on my youtube feed on a random tuesday in my 11th grade.",5,0.5,2,2,3,6
+2401000888,,,17,Male,Gujarat,Engineering Business,Housewife,1,0,Nuclear Family,4,,5429,,467,Yes,No,2 : Very Good,3 : Satisfactory,3 : Satisfactory,4 : Poor,Through family and friends,3 hrs,10 hrs,3 hrs,3 hrs,3 hrs,7 hrs
+24210090,,,18,Male,Uttar Pradesh,Software Engineer,House wife,0,1,Nuclear family,4,350000,.,.,85,Yes,No,Excellent,Satisfactory,Satisfactory,Very Good,Parents told me to come over here because its a quite reputed  college in gujarat,1,8,2,2,1,7
+202303021,,,19,Male,Gujarat,Buisnessman,Housewife,0,0,Nuclear family,3,800000,7535,8.5,91,No,No,Satisfactory,Very Good,Satisfactory,Very Good,It's best institute in gujarat.,1,2,3,1,1,6
+202201503,,,20,Male,Guajarat,Diamond worker,House wife,1,2,Nuclear family,6,150000,"97,000",7.12,92.3,No,No,Excellent,Very Good,Very Good,Excellent,School Teacher,5,4,1,1,2,8
+202101078,,,21,Male,Gujarat ,Shopkeeper ,Homemaker ,1,0,Joint family,7,120000,9636,6.15,79,No,No,Satisfactory,Satisfactory,Satisfactory,Very Good,Parents ,5,3,2,0,2,8
+2401002380,,,17,M,GUJ,Teacher,Teacher,1,0,Nuclear,4,0,3760,0,79.00%,No,No,2,2,2,1,friends,4,6,1,1,1,9
+202301146,,,18,M,GUJ,Service,Home maker,0,1,Nuclear,4,0,9662,6.84,69.00%,No,No,2,2,2,2,Elder Sister,8,3,0.5,0,2,6
+202201467,,,19,F,GUJ,Real Estate,Home maker,0,1,Joint,6,8,80000,7.9,89.00%,Yes,No,2,4,4,4,friends,3,6,2,0,1,6
+202101489,,,20,M,GUJ,Office Boy,Home maker,1,0,Nuclear,4,2,NA,7.15,88.88%,No,No,3,2,2,2,friends,4,6,1,0,2,9
+"2,41,19,01,28,901",,,18,Male,Gujarat,Diamond,Housewife,0,1,nuclear,5,Less than 10,ACPC,,99.72,No,No,Excellent,Satisfactory,Excellent,very good,Website,5,0,0,3,1,10
+202301433,,,19,Male,Gujarat,Information Technology,House wife,1,0,nuclear,6,More than 10,25000,5.9,82,No,No,Satisfactory,Satisfactory,Satisfactory,Poor,Siblings,5,2,1,1,2,7
+202201139,,,19,Male,Gujarat,Private Job,House Wife,0,1,nuclear,5,less than 10,22000,7.97,95.33,No,No,very good,very good,Excellent,very good,My sister is a Daiict passout.,3hr,5hr,2hr,0hr,2hr,6hr
+202101180,,,20,Female,Maharashtra,Construction,Home maker,0,1,nuclear,4,Less than 10,97.2,7.29,98.3,No,No,Satisfactory,Poor,Poor,Poor,Counselling,5,3,1,1,3,7
+,,,18,Male,Gujrat ,Private sector job,Homemaker,0,1,nuclear,4,15,30820,8.68,95,No,No,Satisfactory,Satisfactory,very good,very good,Friend,5,3,2.5,1,3.5,7
+,,,20,Male,Gujarat ,Businessman,Homemaker,0,1,joint,7,12,9048,8.87,96,No,No,Satisfactory,Poor,Satisfactory,Poor,Friends,5,1,2,0,0.5,7
+202201465,,,19,Male,Gujarat ,Business ,Housewife ,0,0,joint,9,Not prefer to say,Not prefer to say,6.11,A2,No,No,Poor,Poor,Satisfactory,Poor,From teachers,4,0,0,0,0,6
+202401468,,,17,Male,Gujarat ,Salaried,Housewife ,1,1,nuclear,5,8,10071,NA,83,No,No,Excellent,Excellent,Excellent,Excellent,Social media ,5,5,2,1,1,6
+202303013,,,19,Male,Gujarat,Business,Homemaker,0,0,nuclear,5,5 lpa,6192,6.77,80%,No,No,very good,very good,Satisfactory,very good,YouTube,8200846429,3,1,1,1,6
+202103042,,,20,Male,Gujarat,Banker,Housewife,0,1,nuclear,4,Above 6 lpa,18252,7.02,93,No,No,very good,Excellent,very good,very good,Newspaper,2,1,1,0,1,6
+202201510,,,19,Male,Gujarat,Employee in private sector,Homemaker,0,0,nuclear,3,1.5,24874,8.64,89,No,No,very good,very good,Satisfactory,very good,Coaching Centre,4,2,4,1.5,4,7
+202401473,,,18,Male,Gujarat,Buisness,Housewife,0,2,joint,,,2396,,,No,No,Satisfactory,Satisfactory,Satisfactory,Satisfactory,NewsPaper,,,2,,2,6
+202201143,,,20,Male,Gujarat,Job,Housewife,1,0,Joint,8,1650000,3916,6.8,81,no,no,2,2,2,3,Reference,4.5,2.5,1.25,0,1,6.5
+NAN,,,18,Male,Gujarat,Farner,Housewife,0,0,Joint,7,250000,50000,NULL,93,no,no,2,2,2,2,Friends,6.5,6.5,0,2,1,6.5
+202103034,,,21,Malw,Gujarat,Health Officer,Housewife,0,1,Nuclear,4,800000,3500,7,94,no,no,2,2,2,3,Friends,4,5,1,4,1,7
+202303034,,,19,Male,Gujarat,Farmer,Housewife,1,0,Nuclear,4,150000,45000,8,84,no,no,3,2,2,2,School,5,2,1,1,1,7
+202103003,,,21,Male,Gujarat,Job,Housewife,2,4,Nuclear Family,10+,,,7.5,94,No,No,Satisfactory,Satisfactory,Satisfactory,Satisfactory,Parents ,2,5,1,1,1,7
+202201167,,,20,Male,Gujarat,Job,Homemaker,0,1,Nuclear Family,6,40000,,6.32,99.64,Yes,No,Excellent,Excellent,Excellent,Very good,From seniors,2 hrs,3 hrs,2 hrs,2 hrs,1 hrs,8 hrs
+202301175,,,18,Male,Gujarat ,Education,House wife ,0,1,Nuclear Family,6,500000,,7.75,87%,Yes,No,Excellent,Very good,Satisfactory,Satisfactory,Through friends and teachers ,5.5,0,01,1.5,0,7-8 
+202401166,,,17,Male,Gujarat ,Doctor,Doctor,0,1,Joint Family,6,1000000,,,95,Yes,No,Very good,Very good,Very good,Satisfactory,Family ,3,1,1,,4,8
+202103026,,,20,Female,Gujrat,Businessman,House wife,0,2,Joint family,6,2,20000,6.65,94,No,No,2,2,3,1,Internet,4,2,3,3,1,8
+202203041,,,20,Male,Gujarat,Businessman,House wife,0,0,Joint family,5,4,11732,6.52,79,No,No,4,3,3,3,School,2,2,4,1,2,8
+202401451,,,18,Female,Gujarat,Farmer,Housewife,0,1,Nuclear family,4,40,96297,0,90,Yes,No,1,1,1,2,Family,4,2,1,1,1,6
+202301181,,,18,Male,Gujurat,Businessman,Housewife,1,0,Nuclear family,4,28,14285,8.4,89,Yes,No,3,1,2,3,Internet,5,3,1,1,2,6
+202401059,,,18,Male,Gujarat,Businessmen,House wife,1,,Nuclear Family,4,<=12,14421,None,89.8,Maybe,No,Very Good,Satisfactory,Poor,Good,Others,2 hrs,2 hrs,3 hrs or more,No,1 hrs,<= 7 hrs
+202103016,,,21,Male,Gujarat,Business,Homemaker,0,,Joint Family,5,>=12,13032,7.34,93.07,Yes,No,Satisfactory,Satisfactory,Good,Good,Friends,2 hrs,2 hrs,3 hrs or more,Yes,03-Apr,<= 7 hrs
+202201133,,,21,Male,Gujarat,Worker,Housewife,0,,Joint Family,4,>=6,166000,5.8,64,Yes,No,Satisfactory,Satisfactory,Good,Good,Others,2 hrs,3 hrs,1 hrs,Yes,1 hrs,<=5 hrs
+202301446,,,19,Male,Gujarat,Service,Homemaker,1,,Joint Family,7,,6889,9.7,97%,Yes,No,Very Good,Satisfactory,Satisfactory,Satisfactory,Friends,2 hrs,5 hrs or more,1 hrs,Yes,1 hrs,<= 7 hrs
+202403032,,,17,Male,Gujarat ,Serviceman,House wife,0,1,,4,"8,00,000",11220,,0.92,No,No,3,2,1,3,Friends or Family,2-3 hours,3-4 hours,3-4 hours,3-4 hours,1-2 hours,6-7 hours
+202304011,,,18,Female,Gujarat,Government Job,Housewife,0,1,Nuclear,5,,28705,7.3,90,Yes,No,2,3,4,4,Friends or Family,More than 4 hours,1-2 hours,Less than 1 hour,Less than 1 hour,More than 4 hours,More than 8 hours
+202201450,,,19,Female,Gujarat,Engineer,Homemaker,0,1,Nuclear,4,,,7,92,No,No,3,4,4,2,Friends or Family,3-4 hours,3-4 hours,1-2 hours,1-2 hours,2-3 hours,6-7 hours
+202101200,,,20,Female,Uttar Pradesh,Private Job,Yoga Teacher,0,2,Nuclear,5,,9500,8.76,96.4,Yes,No,2,2,4,3,Friends or Family,More than 4 hours,2-3 hours,1-2 hours,1-2 hours,3-4 hours,More than 8 hours
+202401145,,,16,Female,Gujarat ,Government teacher ,Government teacher ,0,1,Nuclear,6,,,,,,No,4,3,3,2,Friends or Family,3-4 hours,2-3 hours,2-3 hours,1-2 hours,1-2 hours,7-8 hours
+202304006,,,19,Male,Andhra Pradesh ,Engineer,Housewife ,1,0,Joint,6,,13673,9.5,97%,Yes,No,2,2,4,3,Friends or Family,More than 4 hours,1-2 hours,1-2 hours,Less than 1 hour,Less than 1 hour,More than 8 hours
+202201254,,,19,Male,Gujarat,Business ,Housewife,0,1,Joint,6,6,10978,6.6,92,Yes,No,3,4,3,1,Online research or website,3-4 hours,More than 4 hours,1-2 hours,Less than 1 hour,1-2 hours,6-7 hours
+202101048,,,20,Male,Gujarat ,Shopkeeper ,Homemaker ,0,1,Nuclear,4,,11500,8.42,92,No,No,2,4,4,2,Friends or Family,3-4 hours,1-2 hours,Less than 1 hour,Less than 1 hour,2-3 hours,6-7 hours
+202203070,,,20,Female,Gujarat,Government Job,Housewife,1,0,joint,3,1000000,11021,6.12,95,Yes,No,Satisfactory,Satisfactory,Poor,Satisfactory,Through friends,6,1,1,0,3,7
+202101262,,,20,Female,Gujarat ,Job ,Job,1,0,nuclear,2,Greater than 10 Lakh per annum ,"55,000",8.9,98.99,No,No,Very good,Very good,Very good,Satisfactory,School teachers,1-2,4,1,1,Less than 1,9
+202301077,,,18,Female,gujarat,business,housewife,1,0,nuclear,2,100000,13106,7.5,99.81,No,No,Satisfactory,Satisfactory,Poor,Poor,friends,2,1 apart from class and lab,1,none,1,8
+202301184,,,18,Female,Gujarat,Diamond business,Home-maker,1,0,nuclear,2,4 lakh ,37000,9.35,99.96,No,No,Very good,Satisfactory,Satisfactory,Satisfactory,Through acpc,2 hours,5 to 6 hours,2 3 hours ,1 2 hours,2 3 hours,5 6 hours
+202201076,,,20,Female,Gujarat,Diamond worker,Housewife,1,0,nuclear,4,1000000,"67,345",7.44,99.68,No,No,Satisfactory,Satisfactory,Very good,Poor,online,4 hr,3 hr,30 min,0 min ,1 hr ,7 hr
+202401086,,,18,Female,Karnataka,Electrical Egineering,House wife,1,0,joint,2,5 lakh,30000,9.5,75,yes,no,Very good,Excellent,very good,satisfactory,friends,1.5,4,1 hour,30 min,1,8
+202401225,,,18,Male,Gujarat ,Business man,House wife ,0,1,Nuclear (Parents and Children),4,10,16594,Not applicable,69,No,No,1,1,1,,Friends ,4,5,,,1 hr,8 hr
+202303027,,,19,Male,Rajasthan ,Engineer ,Homemaker ,1,0,Nuclear (Parents and Children),4,800000,10000,6.5,75,Maybe,No,3,3,4,,Online youtube ,3,4,,,1-2,8
+202201204,,,19,Male,Gujarat ,Businessmen ,Government employee ,NA,NA,Nuclear (Parents and Children),3,180000,1097,5.14,87,Maybe,No,3,3,2,,Acpc,5,2,,,1,12 to 7
+202101480,,,20,Male,Gujarat ,Office boy,Home maker,1,0,Nuclear (Parents and Children),4,Less than 2 lakh,1629,7.15,88.88,No,No,3,4,4,,From my tution classes and school teachers,3-4,6 hr (lecturers time included),,,1-2 hr,8 - 10 hr
+202201501,,,19,Male,Gujarat ,Diamond ,House wife ,other,1,nuclear family,4,Below 9 lakh,,7.6,,No,No,Very good,Very good,Satisfactory,Poor,Friends,2 hrs,2 hrs,3 hrs or more,0,1 hrs,<= 7 hrs
+202401186,,,17,Male,Gujarat ,Teacher,Housewife ,1,others,nuclear family,6,Below 9 lakh,11158,Nill,96.21,No,Yes,Very good,Very good,Good,Satisfactory,Parents,2 hrs,2 hrs,2 hrs,30 min,30 min,<= 7 hrs
+202101157,,,22,Male,Gujarat ,Civil Engineer ,Homemaker,other,others,nuclear family,3,Below 9 lakh,10864,6.2,95.23,No,Yes,Excellent,Excellent,Good,Good,Web Sites,4 hrs,6hrs,2 hrs,1 hrs,1 hrs,<= 6 hrs
+202301054,,,19,Male,Gujarat ,Buisness ,House wife,other,others,nuclear family,3,Below 9 lakh,11308,6.11,83,No,Yes,Satisfactory,satisfactory,Satisfactory,Satisfactory,Other,4 hrs,2 hrs,2 hrs,1 hrs,2 hrs,<= 7 hrs
+2401008193,,,18,M,GUJ,Shopkeeper,Home maker,0,1,Nuclear,4,0,11999,0,No,No,,2,2,3,3,Teacher,10,0,0,0,0,7
+202304026,,,19,M,GUJ,Business,self employed,0,0,Nuclear,5,70,20956,7.2,Maybe,Maybe,,3,3,3,3,friends,4,3,2,1,0.33,7
+202201471,,,19,F,GUJ,Teacher,Teacher,0,1,Nuclear,4,15,0,7.39,Yes,Yes,,3,4,4,4,Teacher,9,3,2,2,0.5,7
+202101506,,,21,M,GUJ,Architect,Home maker,0,0,Joint,4,0,Not given,7.44,Yes,Yes,,2,3,2,3,friends,4,6,1,0,1,9
+2420010023,,,18,Male,Gujarat,Engineer,Housewife,0,0,Nuclear,3,30,195606,,76,No,No,Excellent,Satisfactory,Satisfactory,Satisfactory,School Teacher,3,3,1,1,2,8
+202301258,,,19,Male,Maharastra,Geologist,Housewife,0,1,Nuclear,4,18,16862,6.5,79,Yes,No,Satisfactory,Satisfactory,Poor,Satisfactory,Internet,4,1,1,2,3,7
+202201492,,,19,Male,Gujarat,Doctor,Doctor,1,0,Joint,6,30,49000,5.95,,No,No,Poor,Satisfactory,Poor,Poor,School ,3,4,1,0,1,9
+202101198,,,20,Male,Gujarat,Business,Housewife,1,1,Nuclear,5,10,,8.64,95,No,No,Excellent,Satisfactory,Satisfactory,Satisfactory,Other People,2,2,4,0,1,7
+2401005770,,,18,Female,Gujarat,Job,Housewife,0,1,Nuclear,4,50000,7189,,98.32,Yes,No,Very Good,Excellent,Very Good,Very Good,,2,5,3,2,1,6
+202303020,,,19,Female,Gujarat,Business,Housewife,0,0,Nuclear,3,,8000,8.2,94,Yes,No,Very Good,Satisfactory,Poor,Satisfactory,Same  state,5,5,3,2,2,7
+202201071,,,20,Female,Gujarat,Business,Teacher,1,0,Nuclear,4,,6000,7.7,77,Yes,No,Satisfactory,Satisfactory,Satisfactory,Satisfactory,Parents,5,3,0,,3,8
+202101485,,,21,Female,Gujarat,Construction,Housewife,1,1,Nuclear,5,,12000,6.02,96,No,No,Satisfactory,Satisfactory,Poor,Satisfactory,,3,6,,,2,9
+2420010062,,,18,Male,Uttar Pradesg,Sales and Marketing,Homemaker,1,0,Nuclear family,4,.,.,.,.,No,No,Very Good,Very Good,Very Good,Very Good,Family,2,2,2,2,7,1
+202301461,,,19,Male,Gujarat ,Business ,Home maker ,1,0,Joint family,5,>400000,39987,8.45,A1,No,No,Excellent,Excellent,Satisfactory,Very Good,School,7h,3-4h,3h,Not in any club,7,1
+202201235,,,20,Male,Gujarat,Business,Housewife,0,1,Nuclear family,4,<5 lakh,.,6.5,99.96 PR,No,No,Satisfactory,Satisfactory,Very Good,Very Good,School Teacher,3-4,2-3,1-2,1,7,2
+202101252,,,21,Male,Gujarat ,Diamond polishing ,Housewife ,0,1,Nuclear family,4,300000,105,7.8,91,No,No,Very Good,Very Good,Satisfactory,Satisfactory,Friends,4,3,1,1,7,1
+202401164,,,18,female ,rajasthan,bussiness man,homemaker,1,1,nuclear,3,300000,,94,93,yes,no,good,good,poor,poor,friend,6,3,cricket,chess,4,6
+202301122,,,19,female ,gujarat,bussiness man,homemaker,1,0,nuclear,2,300000,,98,95,no ,no,very good,good,poor,poor,family,5,4,tennis,chess,7,6
+202201123,,,20,male ,delhi,service,service,1,0,nuclear,2,400000,,87,95,no ,no,satisfactory,excellent,good,good,internet,4,5,tennis,chess,4,6
+202102233,,,22,male ,kerala,service,service,0,1,nuclear,2,400000,,78,85,no ,yes,good,good,poor,good,internet,3,6,badminton,chess,3,6
+202401228,,,18,Male,Gujarat,Business,Housewife,0,0,Nuclear family,3,NA,5908,NA,98%,Maybe,No,1,2,2,3,School,2hr,4hr,0hr,0,1 hr,8 hr
+202301232,,,19,Male,Gujarat,Job,Housewife,0,1,Nuclear family,3,NA,16000,8,92%,Maybe,No,2,3,3,2,School,5hr,1hr,2-4hr,0.5-1hr,1-1.5hr,7hr
+202201292,,,20,Male,Gujarat,Business,Housewife,0,1,Nuclear family,4,NA,10218,NA,92.40%,Maybe,No,2,3,2,2,By seniors from same school ,5hr,2hr,2hr,2hr,2hr,7hr
+202101203,,,21,Male,Gujarat,Government Contractor,Housewife,0,1,Joint family,6,NA,14443,8.23,95%,Maybe,No,3,3,3,2,School,4hr,Na,1-2 hr,1-2 hr,No,6 hrs
+202303031,,,19,Male,Gujrat ,Buisness ,House wife ,0,0,Joint family,9,"80,000",3773,6,96.18,No,No,Satisfactory,Very Good,Poor,Excellent,"By friends,and school faculty's",4,3,4,0,2,7
+2420010134,,,18,Male,Karnataka ,Software engineer ,Home maker,0,1,Nuclear family,4,-,.,-,87,No,No,Satisfactory,Poor,Very Good,Poor,Father,2,3,2,1,2,8
+202101078,,,21,Male ,Gujarat ,Shopkeeper ,Homemaker ,1,0,Joint family,7,120000,9363,6.15,78,No,No,Satisfactory,Satisfactory,Satisfactory,Satisfactory,Parents ,4,.,.,.,2,8
+202201313,,,20,Male,Gujarat,Diamond Business ,Housewife ,1,0,Nuclear family,4,400000,9343,,A,Yes,No,Satisfactory,Poor,Poor,Satisfactory,Researched before admissions,2,1,2,1,Not fixed ,8
+202401205,,,18,Male,Gujarat ,Business ,Housewife ,0,1,Joint Family,4,15LPA,9011,Na,80,Not Yet Decided,No,Very Good,Poor,Satisfactory,Poor,Through senior ,2,3,2,3,1,7
+202201328,,,20,Male,Gujarat ,Business ,Housewife,0,1,Joint Family,4,Not to say,347,9,95,No,No,Satisfactory,Satisfactory,Very Good,Poor,No,2,1,4,2,1,8
+202301152,,,18,Male,Gujarat ,Self employed ,Housewife ,0,1,Nuclear Family,4,7LPA,13500,7.6,94,Yes,No,Very Good,Satisfactory,Very Good,Satisfactory,Freinds,3,4,5,1,1,6
+202101197,,,20,Male,Gujarat,Officer in Nagarpalika,Housewife,0,1,Nuclear Family,5,10LPA,8015,8.72,95,Yes,No,Very Good,Satisfactory,Satisfactory,Very Good,Friends,3,5,1,1,1,7
+202304009,,,19,MALE,Gujarat,Employee Of SBI Bank,Employee Of LIC,0,1,Nuclear Family (Separate),4,15 Lakh,28000,9.3,86%,Yes,No,2. Very Good,4. Poor,4. Poor,3. Satisfactoy,"Online Search (e.g., Google)",1,7,2,0,2,8
+202101112,,,21,MALE,Gujarat,Teacher As A Principal ,Teacher As A Professor ,0,0,Joint Family,7,12 Lakh,4300,8.08,94%,No,No,2. Very Good,2. Very Good,3. Satisfactoy,2. Very Good,School or College Counselor,3,2,1,1,2,8
+202203036,,,19,MALE,Gujarat,Job ,House Wife,1,0,Nuclear Family (Separate),4,6 Lakh,8000,8.21,86%,No,No,4. Poor,3. Satisfactoy,3. Satisfactoy,4. Poor,"Online Search (e.g., Google)",2,2,0,0,2,8
+202403006,,,17,MALE,Gujarat,Teacher ,Teacher,0,1,Nuclear Family (Separate),4,8 Lakh,10000,0,90%,No,No,2. Very Good,1. Excellent,2. Very Good,2. Very Good,Referral from a Friend or Family Member,6,5,1,1,1,7
+,,,18,Female,Gujarat,Businessman,Housewife,1,0,Nuclear,4,1200000,8948,NULL,92,no,no,3,3,2,2,Coaching,3,4,2,1,1.5,7
+202301485,,,18,Female,Gujarat ,Doctor ,Doctor ,0,1,NUCLEAR,4,800000,9634,8.5,79,yes,no,2,2,3,3,Through the admission process,3,3,2,2,2,6
+202201445,,,19,Male,Gujarat,Businessman,Housewife,1,0,Nuclear,4,1500000,7128,7.63,91,no,no,2,1,3,4,Friends,4,4.5,2.5,1,2.5,4.5
+202103039,,,21,Male,Gujarat,Businessman,Housewife,0,1,Nuclear,4,300000,100000,7.35,95,no,no,3,4,4,4,Teachers ,5,4,1,1,3,6
+2401006793,,,19,Female,Tripura,Banker,Housewife,0,0,Nuclear,3,10,6556,,60,No,No,Very Good,Very Good,Satisfactory,Satisfactory,Google,6,6,3,2,6,1
+202301243,,,18,Female,Gujarat,Principal,Home maker,0,1,Nuclear,4,,20000,7.68,98.75,No,No,Very Good,Excellent,Very Good,Satisfactory,Father,5,5,1,1,7,2
+202201238,,,20,Female,Gujarat,Business,Housewife,1,0,Joint,6,5,,6.96,83.38,No,No,Very Good,Very Good,Satisfactory,Satisfactory,Tuition class,2,3,,,7,
+202101444,,,21,Female,Gujarat,Government Job,Housewife,1,0,Nuclear,4,15,6754,7.1,91.2,Yes,No,Poor,Poor,Poor,Poor,Famly,3,3,0,0,7,2
+202401414,,,19,Male,Rajasthan,Businessman,Housewife,1,0,Nuclear Family,4,more than 20 lakh,11.6k,Nil,81,Yes,Yes,2,1,2,1,Reddit post,3,1,3,,2,7
+202101104,,,21,Male,Madhya Pradesh,Bank Manager,Housewife,0,1,Nuclear Family,3,10-20 lakh,Less than 13k,More than 7.5,90%,Maybe,No,2,2,2,2,Through my father,5,3,2,,0,8
+202301224,,,18,Female,Gujarat ,Teacher ,Teacher,1,0,Nuclear Family,4,2.5-5 lakh,"43,000 (ACPC 134)",8.5,84%,No,No,3,4,4,3,From teachers & google,3,2 or 3,3,,2,8
+202201469,,,19,Male,Gujarat,Businessman ,Housewife,1,0,Nuclear Family,4,more than 20 lakh,23125,7.11,88,No,No,2,3,4,4,Via my teachers,3,0,2,,4,9
+202301424,,,18,Male,Gujarat,Service,Doctor,0,0,nuclear,3,10 lakh,3266,8.6,88,Maybe,No,3,1,1,2,Friends,1.5hr,7,1,2,2,7
+202203024,,,19,Male,Gujarat,Farmer ,House wife ,0,2,joint,5,200000,5127,6.67,96,Maybe,No,2,3,3,3,Acpc,,,,,,
+202103056,,,20,Male,Gujarat,Chartered Accountant ,Teacher,0,0,nuclear,3,,8022,8,93,No,No,3,3,4,3,From coaching classes,2,4,2,1,1,8
+2.41E+11,,,18,Female,Gujarat ,Teacher ,Teacher ,1,0,nuclear,4 person,86k per month ,,,93.50%,No,No,2,3,3,3,From school ,5 hours,,1.5,,3,6
+202401058,,,19,Male,Rajasthan,Businessman,Housewife,2,0,Nuclear Family,5,10lakh,11.6k,Nil,85,Yes,Yes,2,1,2,1,Friend,13,1,3,,5,7
+202111197,,,20,Male,Gujarat,None,Teacher,0,0,Joint,4,600000,0,5,94,No,No,3,3,3,1,By other,12,0,24,,No,8
+202301429,,,18,Male,Gujarat,Job,Housewife,1,0,Joint Family,6,10-20 lakh,7957,7.7,95,No,No,2,2,3,3,Teacher,6,2,2,,1,3
+202201088,,,21,Male,Rajasthan,Businessman,Housewife,0,3,Nuclear,7,1000000,8697,8.24,81.2,No,Yes,3,3,4,3,Through my brother-in-law,1,2,3,,4,9
+202301412,,,19,Male,Rajasthan,Engineer,House wife,0,1,Nuclear,Option 1,1E+51,1.5L,8.15,94,No,No,,4,3,3,Friend,5,2,2,Ifest,1,6
+202001035,,,21,Male,Gujarat,Diamond,Housewife,0,1,Nuclear,4,160000,16500,5.46,76,Maybe,No,,2,2,3,From friends and school teachers,6,4,2,2,3,7
+202201056,,,19,Male,Gujarat ,Mechanical engineer,Housewife ,0,1,Nuclear,4,5000000,,,87,Maybe,No,,2,2,3,Recommendation from family friends,4,5,2,0,1,7
+202404053,,,17,Male,Gujarat,Teacher,Teacher,1,0,Nuclear,4,500000,45920,,98,no,no,,1,1,1,Social Media,5,5,2,1,1,6
+202201174,,,19,Male,Gujarat,Lawyer,Housewife,0,0,Nuclear family,3,8-9 lakh,Approx. 30000,8.35,90.50%,NO,YES,Very Good,Very Good,Fair,Very Good,From peers and teachers,6,3,0,1,0.5,8
+202101163,,,20,Male,Gujarat,Farmer,Housewife ,0,1,Joint family,5,150000,10000,8.51,94.5,YES,NO,Very Good,Very Good,Very Good,Very Good,From school,4,5,2,1,1,8
+202301276,,,19,Male,Gujarat,Daimond polishing,Homework,0,0,Nuclear family,3,Below 3lakh,15900,9.5,96,NO,NO,Fair,Fair,Fair,Poor,Youtube,2,4,2,1,1,7
+202401234,,,18,Male,Gujarat ,teacher,housewife,0,3,Nuclear family,4,12 lac,104210,,83.2,NO,YES,Very Good,Fair,Very Good,Very Good,relatives,5,3,1,1,1,8
+202101040,,,21,male,Gujarat,Business,Housewife,0,0,Joint Family,10,,8900,,92,No,No,2 : Very Good,3 : Satisfactory,3 : Satisfactory,2 : Very Good,Relative,4,4,1,1,1,7
+202201164,,,20,male,Gujarat,Accountant,Homemaker,0,1,Nuclear Family,4,,16548,,91,Have not thought about it!,No,2 : Very Good,3 : Satisfactory,3 : Satisfactory,4 : Poor,Internet,3,2,3,1.5,0.5,6 to 7
+202301014,,,19,male,Gujarat,Professor,House wife,0,1,Nuclear Family,4,,19523,,84,No,No,2 : Very Good,3 : Satisfactory,3 : Satisfactory,2 : Very Good,"Family, friends",4,2,2,2,2,7
+2401009071,,,19,male,Madhya Pradesh,Businessman,House wife,0,2,Nuclear Family,5,5000000,8012,,68,Yes,Yes,1 : Excellent,1 : Excellent,1 : Excellent,3 : Satisfactory,Family,4,2,3,1,3,8
+202301051,,,19,Male,Gujarat,Doctor,Doctor,0,1,nuclear family,4,600000,10885,9.05,92.8,Yes,No,Very good,Satisfactory,Satisfactory,Satisfactory,Other,6,2,2,0,2,6
+202201258,,,19,Male,Gujarat,Diamond Work,House Wife,0,1,nuclear family,4,400000,19325,7.92,89.5,No,Yes,Excellent,Satisfactory,Good,Poor,Web sites,3,2,2,0,0,7
+202404019,,,17,Male,Gujarat,Textile,Housewife,1,0,nuclear family,4,200000,22356,,81.67,Yes,No,Very good,Very good,Good,Good,Friends,3,4,2,1,1,5
+202101223,,,19,Male,Gujarat,Farming,Housewife,1,0,joint family,7,200000,7268,7.46,97,No,No,Very good,Very good,Poor,Good,Friends,2,3,1,1,2,10
+2411901396,,,17,Male,Gujarat,Newspaper distributor,Housewife,2,0,5,Joint,2,21098,,,Yes,No,Satisfactory,Satisfactory,Satisfactory,Satisfactory,Teacher,4,4,2,2,1,7
+202301126,,,18,Male,Gujarat,Teacher,Teacher,0,0,3,Nuclear,12,900000,6.32,,No,No,Excellent,Very Good,Very Good,Satisfactory,Cousin,6,1,1,1,1,8
+202201215,,,20,Male,Gujarat,Business,Housewife,0,1,6,Nuclear,1.5,7635,7.99,87.5,No,No,Satisfactory,Satisfactory,Satisfactory,Satisfactory,Friends,4,5,2,0,2,7
+202101012,,,20,Male,Gujarat,General Manager,Housewife,0,1,4,Nuclear,10,8622,,89.8,Yes,No,Very Good,Very Good,Poor,Satisfactory,Internet,3,8,1,0,2,7
+202101074,,,21,Male,Gujarat,Teacher,Homemaker,0,1,Nuclear,4,,6049,7.98,87%,Maybe,No,3,4,3,3,Alumni friend ,2,3,2,0,3,7
+202201164,,,20,Female,Gujarat ,Accountant ,Homemaker ,0,1,Nuclear,4,14-15 lakh annum,16543,6.05,92%,Yes,No,2,2,2,3,Internet ,3-4 hrs,4-5 hrs ,3 hrs,1-2 hrs,1/2 hr,7 hrs
+202303025,,,19,Male,Rajasthan ,Engineer,Housewife,2,0,Joint,7,,10984,6.95,73,No,No,1,1,1,1,Friend,7,3,2,2,1,7
+202401162,,,17,Male,Gujarat,Teacher,Teacher,0,1,Nuclear,4,600000,141000,.,93,Maybe,No,1,1,1,2,Friend,5,6,2,1,1,8
+202401233,,,17,Female,Gujarat,,,1,,Joint,9,,7039,,,Yes,No,1,1,2,,Online research or website,More than 4 hours,2-3 hours,1-2 hours,Less than 1 hour,More than 4 hours,6-7 hours
+202304030,,,18,Female,Gujarat,Professor,Director ,None,One,Joint,5,Above 12lakhs,CRL 65455,9.3,89 percentage,Yes,No,2,2,4,,Friends or Family,1-2 hours,1-2 hours,Less than 1 hour,Less than 1 hour,Less than 1 hour,7-8 hours
+202201409,,,18,Male,Gujarat ,,,,,,3,,1508,,,No,No,4,4,4,,Friends or Family,2-3 hours,1-2 hours,Less than 1 hour,Less than 1 hour,1-2 hours,6-7 hours
+202101510,,,19,Female,Gujarat,Government job,Homemaker,0,1,Nuclear,4,8,,8.84,96,No,No,2,2,2,,Friends or Family,More than 4 hours,1-2 hours,Less than 1 hour,Less than 1 hour,1-2 hours,More than 8 hours
+202401075,,,18,MALE,Gujarat,Business,House wife,0,1,Nuclear,4,10-15,,,78.45,YES,NO,1,1,2,3,While searching on Google,6,3,0,2,3,9
+202303031,,,19,MALE,GUJARAT,Head Teacher,Housewife,0,0,Joint,5,15,12000,7.8,88,Maybe,NO,5,2,2,2,Through Coaching centre,2,6,1,0,2,7
+202201145,,,20,MALE,Gujarat,Businessman,House wife,1,0,Joint,7,4-5,9124,7.2,90.2,YES,NO,4,2,4,4,Alumni,2,2,2,1,1,7
+202101097,,,21,MALE,Gujarat,Job,House wife,0,1,Nuclear,4,20,8602,8,94.15,NO,NO,3,3,3,4,Friends,5,3,2,3,2,8
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,
